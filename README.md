@@ -6,11 +6,11 @@
 ### Having me in this position offers not only technical expertise but also the potential for further collaboration that can open up opportunities in both the Malaysian and Singaporean markets. With my familiarity with the Asian environment and proficiency in multiple languages, including English, Malay, Indonesian, and Chinese, I am capable of reading, writing, speaking, and communicating effectively in these languages. I consider these linguistic abilities as valuable assets  
 
 # Technical Skills
-### I have a solid skils that can be proven from the sample portfolio. The sample portfolio have covered webesite with diverse objective, such as ecommerce, busiessm F&B, real estate, education, logistic, services, finance, point of sales, etc. All of these are to demonstrate my proficiency in web development.
-### I am proficient in
+### I possess a robust skill set that is substantiated by my sample portfolio. This portfolio encompasses a variety of websites with diverse objectives, including e-commerce, business, F&B, real estate, education, logistics, services, finance, point of sale, and more. These projects collectively serve as a testament to my proficiency in web development.
+### My expertise spans across both frontend and backend technologies:
 ### Frontend: React, Nextjs, Angular, Gatsby, bootstrap, tailwindcss, typescript, material ui, chakra ui, semantic ui, HTML, CSS, Javascript, Jquery, SASS, Redux, GraphQL, etc  
-### Backend: Node.js, express.js, mongodb, snipcart, sanity, python, mongo, postgresql, mysql, sqlite, java, maven, hibernate, shopify V2, wordpress, Django, Firebase, contentful, payment integration API(Stripe, Paypal, Braintree, etc)
-### Remarks: I could the web applications dontainerized and deployed to paid cloud hosting (Kubernetes, AWS, Azure, Google Cloud,Heroku, etc.), if access is provided.
+### Backend: Node.js, express.js, mongodb, snipcart, sanity, python, mongo, postgresql, mysql, sqlite, java, maven, hibernate, shopify V2, wordpress, Django, Firebase, contentful, payment integration API (Stripe, Paypal, Braintree, etc)
+### I'm also proficient in containerization and deployment, and I can containerize and deploy web applications to paid cloud hosting services like Kubernetes, AWS, Azure, Google Cloud, Heroku, and more if access is provided
 ## As a developer, I am familiar with version controlling tool, linux operating system, and visual studio.
 
 # Work Practise
