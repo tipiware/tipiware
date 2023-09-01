@@ -20,7 +20,8 @@
 ### Let me talk a bit about my work practices. As someone working in software development, I follow a common practice, much like other software engineers. I don't typically use the latest package unless there is a specific demand from the client. Instead, I usually opt for stable builds that were released within the past one or two years. Why? Because the latest build is still undergoing the software development life cycle, where possible bugs are being detected during integration. This requires additional effort to fix. On the other hand, for stable earlier builds (non-deprecated), the initial bugs have already been identified and resolved. If I encounter any issues, I am able to work with the package developer for follow-up and escalation
 ### I can perform software testing to ensure the quality assurance of the application if there are sufficient resources allocated for these tasks. I can also prepare unit tests, functionality tests, blackbox testing, and test cases.
 
-# Here are just a few of my sample portfolio(not the one showing as public in this repository) which I have deployed to the free hosting.
+# Portfolio
+### Here are just a few samples from my portfolio (not the one shown publicly in this repository), which I have deployed on free hosting.
 ### 1. Services website (Gatsby) https://aesthetic-marshmallow-c37d38.netlify.app
 ### 2. Company website (Next.js, Graphql, Tailwindcss) https://gilded-tulumba-77ff07.netlify.app
 ### 3. Product website (Next.js plus MUI) https://soft-cascaron-eca7d6.netlify.app/
