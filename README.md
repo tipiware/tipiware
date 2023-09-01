@@ -13,7 +13,7 @@
 ### I'm also proficient in containerization and deployment, and I can containerize and deploy web applications to paid cloud hosting services like Kubernetes, AWS, Azure, Google Cloud, Heroku, and more if access is provided. (I cancelled the earlier subscription due to the monthly cluster charging for inactive usage)
 ### As a developer, I am familiar with version controlling tool, Linux operating system, and visual studio. I could have the design Figma, Adobe XD, PSD) to the static page/landing page. 
 
-# Softskills: multilingual oral and written communication, time management, persuasion, creativity, collaboration, and team work
+### Softskills: multilingual oral and written communication, time management, persuasion, creativity, collaboration, and team work
 
 # Work Practise
 ### Let me talk a bit about my work practices. As someone working in software development, I follow a common practice, much like other software engineers. I don't typically use the latest package unless there is a specific demand from the client. Instead, I usually opt for stable builds that were released within the past one or two years. Why? Because the latest build is still undergoing the software development life cycle, where possible bugs are being detected during integration. This requires additional effort to fix. On the other hand, for stable earlier builds (non-deprecated), the initial bugs have already been identified and resolved. If I encounter any issues, I am able to work with the package developer for follow-up and escalation
