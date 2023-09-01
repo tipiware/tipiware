@@ -1,5 +1,5 @@
 # About me
-### Good day, Sir/Madam. My name is Ooi Cheng Jie, and I am currently residing in Malaysia, a country neighboring Singapore. I am a software engineer specializing in web application development.
+### Good day, Sir/Madam. My name is Ooi Cheng Jie, and I am currently residing in Malaysia, a country neighboring to Singapore. I am a software engineer specializing in web application development.
 
 ### Allow me to provide a brief overview of my background. I have accumulated 8 years of industrial experience, primarily in software development and research and development (R&D). In my previous role at Intel Malaysia, PG12, I worked on graphics drivers for Fedora 14, Meego 1.2, and Windows Embedded Compact 7. During these 8 years, I have developed a strong technical skill set and a deep understanding of software development. This experience has enabled me to work effectively both as part of a team and independently. I also possess strong communication skills, which have allowed me to collaborate successfully with individuals at all levels within organizations. As the person in charge of projects, I have directly engaged with stakeholders, clients, and vendors. My flexibility and adaptability in project management have consistently enabled me to deliver high-quality outcomes that meet client satisfaction.
 
