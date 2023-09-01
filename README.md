@@ -7,8 +7,9 @@
 ### I have a solid skils that can be proven from the sample portfolio. The sample portfolio have covered webesite with diverse objective, such as ecommerce, busiessm F&B, real estate, education, logistic, services, finance, point of sales, etc. All of these are to demonstrate my proficiency in web development.
 ### I am proficient in
 ### Frontend: React, Nextjs, Angular, Gatsby, bootstrap, tailwindcss, typescript, material ui, chakra ui, semantic ui, HTML, CSS, Javascript, Jquery, SASS, Redux, GraphQL, etc  
-### Backend: Node.js, express.js, mongodb, snipcart, sanity, python, mongo, postgresql, mysql, sqlite, java, maven, hibernate, shopify V2, wordpress, Django, Firebase, contentful, etc
-### Remarks: I could have these web applications containerized and deployed to cloud hosting (Kubernetes, AWS, Google Cloud, etc.), if access is provided.
+### Backend: Node.js, express.js, mongodb, snipcart, sanity, python, mongo, postgresql, mysql, sqlite, java, maven, hibernate, shopify V2, wordpress, Django, Firebase, contentful, payment integration API(Stripe, Paypal, Braintree, etc)
+### Remarks: I could the web applications dontainerized and deployed to paid cloud hosting (Kubernetes, AWS, Azure, Google Cloud,Heroku, etc.), if access is provided.
+## As a developer, I am familiar with version controlling tool, linux operating system, and visual studio.
 
 # Work Practise
 ### Let me talk a bit about my work practices. As  someone doing software development, I have a common practice just like other software engineer, which I don’t really used the latest package unless there is a specific demand from client.  I usually use stable build that were released within one/two years. Why? This is because latest build is undergoing software development life cycle, where there are possibles bugs being detected during integration. It requires additional effort to fix it. While for the stable earlier build(non-depreciated), the earlier bugs have been escalated and fixed. If I have encountered any issues, I am able to work with package developer on following up/escalation. 
