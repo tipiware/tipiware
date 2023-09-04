@@ -10,7 +10,7 @@
 ### My expertise spans across both frontend and backend technologies:
 ### Frontend: Reactjs, Nextjs, Angularjs, Vuejs, Gatsby, bootstrap, tailwindcss, typescript, material ui, chakra ui, semantic ui, HTML, CSS, Javascript, Jquery, SASS, Redux, GraphQL, etc.  
 ### Backend: Node.js, express.js, mongodb, snipcart, sanity, python, mongo, postgresql, mysql, sqlite, java, maven, hibernate, shopify V2, wordpress, Django, Firebase, contentful, prism, payment integration API (Stripe, Paypal, Braintree, etc) and so on.
-### I'm also proficient in containerization and deployment, and I can containerize and deploy web applications to paid cloud hosting services like Kubernetes, AWS, Azure, Google Cloud, Heroku, and more if access is provided. (I cancelled the earlier subscription due to the monthly cluster charging for inactive usage)
+### I'm also proficient in dockernization and deployment, and I can containerize and deploy web applications to the paid cloud hosting services like Kubernetes, AWS, Azure, Google Cloud, Heroku, and more if access is provided. (I cancelled the earlier subscription due to the monthly cluster charging for inactive usage)
 ### As a developer, I am familiar with version controlling tool, Linux operating system, and visual studio. I could have the design Figma, Adobe XD, PSD) conversion to the static page/landing page. 
 
 # Soft skills
